@@ -1,0 +1,1 @@
+console.log('mrr koi hor jaaye te swarg kisi aor nu mil jaawe, ae ni hunda')
